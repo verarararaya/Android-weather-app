@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter">Please enter the name of the city:</string>
+    <string name="date">Date:</string>
+    <string name="maximum">Highest temp:</string>
+    <string name="minimum">Lowest temp:</string>
+    <string name="windspeed">Wind speed:</string>
+    <string name="winddirection">Wind direstion:</string>
+    <string name="dress">Closet</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="today">Today</string>
+    <string name="zhinan">Guideline：</string>
+    <string name="sum">Short sleeve, shorts,skirts and other suitable summer clothing should be worn</string>
+    <string name="shushi">Should wear thin shirt, long-sleeved T-shirt, thin suit and something like these clothes</string>
+    <string name="jiaol">Should wear a jacket, suit jacket, thin cotton shirt and other transitional clothing</string>
+    <string name="leng">Should wear sweaters, coats, jackets and other pretty warm clothing</string>
+    <string name="chaol">Should wear sweaters, jackets, down jackets and other warm clothing</string>
+    <string name="qunzi">Dress</string>
+    <string name="kuzi">Pants</string>
+    <string name="dadishan">Bottoming Shirt</string>
+    <string name="dayi">Overcoat</string>
+    <string name="waitao">Outer wear</string>
+    <string name="mianyi">Cotton-padded clothes</string>
+    
+</resources>
